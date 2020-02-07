@@ -1,4 +1,4 @@
-# Machine Learning A-Z
+# Machine-learning-beginner-to-advanced
 *A step towards Data Science and Machine Learning*
 
 ### Contains the code and implementation of the following topics and techniques:
@@ -35,6 +35,4 @@
 6. **Deep Learning**
 	* Artifial Neural Networks (ANN)
 	* Convolutional Neural Networks (CNN)
-
-* Recommendation for ML Enthusiasts: [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
-
+ 
